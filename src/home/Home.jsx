@@ -1,8 +1,12 @@
 import "./home.scss";
-import { IconName } from "react-icons/fa";
+import Navbar from "../components/navbar/Navbar";
 
 const Home = () => {
-  return <div className="home"></div>;
+  return (
+    <div className="home">
+      <Navbar />
+    </div>
+  );
 };
 
 export default Home;
