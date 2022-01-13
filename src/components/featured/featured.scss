@@ -29,7 +29,7 @@
   }
 
   .info {
-    width: 33%;
+    width: 35%;
     position: absolute;
     left: 50px;
     bottom: 50px;
@@ -38,11 +38,12 @@
     flex-direction: column;
 
     img {
-      width: 400px;
+      width: 70%;
     }
 
     .desc {
       margin: 20px 0px;
+      font-size: 0.8em;
     }
 
     .buttons {
