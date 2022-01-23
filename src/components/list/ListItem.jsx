@@ -4,7 +4,7 @@ import "./listItem.scss";
 const ListItem = () => {
   return (
     <div className="listItem">
-      <img src="" alt="" />
+      <img src="../src/image/editimage1.jpg" alt="" />
     </div>
   );
 };
